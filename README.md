@@ -1,0 +1,2 @@
+# lamersystem
+Subdomain : Takeover
